@@ -1,1 +1,1 @@
-# DemoMeet-server
+# demo-meet-server
